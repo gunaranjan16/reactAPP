@@ -3,7 +3,7 @@ class ReiteratorComp extends React.Component{//class changes to react component 
     render(){
         return(
             <div>
-            <h1>we are LEARNING CLASS component</h1>
+            <h1>HI</h1>
             </div>
         )
     }

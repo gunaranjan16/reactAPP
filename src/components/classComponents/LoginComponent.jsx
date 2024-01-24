@@ -7,7 +7,7 @@ class Login extends React.Component{
         return (
             <div>
                 <ReiteratorComp></ReiteratorComp>
-                 <h1>and functional component</h1>
+                 <h1>HELLO</h1>
                  <TestComponent></TestComponent>
             </div>
                
